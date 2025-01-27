@@ -1,5 +1,5 @@
-# Your Project's Title...
-Your project's description...
+# AEM Boilerplate
+Local edge delivery test with AEM Sidekick integration
 
 ## Environments
 - Preview: https://main--SolvAEM--and-rew-hoc-k.aem.page/
